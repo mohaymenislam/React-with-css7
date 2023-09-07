@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2ef2cf1.css",
+    "main.js": "/static/js/main.4a79b90e.js",
+    "static/media/space.mp4": "/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/pod.jpg": "/static/media/pod.b0175f6e6cbd2e5c98d1.jpg",
+    "static/media/moon.jpg": "/static/media/moon.6ea3cf49a866c83d8bde.jpg",
+    "static/media/heroLng.jpg": "/static/media/heroLng.45fb7e254d3981724ea9.jpg",
+    "index.html": "/index.html",
+    "main.c2ef2cf1.css.map": "/static/css/main.c2ef2cf1.css.map",
+    "main.4a79b90e.js.map": "/static/js/main.4a79b90e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ef2cf1.css",
+    "static/js/main.4a79b90e.js"
+  ]
+}
